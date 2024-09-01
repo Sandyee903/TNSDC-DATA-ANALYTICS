@@ -1,0 +1,11 @@
+﻿GenderCode,Female,,,,,
+,,,,,,
+Count of EmpID,Column Labels,,,,,
+Row Labels,Involuntary,Resignation,Retirement,Unk,Voluntary,Grand Total
+Admin Offices,8,9,7,16,4,44
+Executive Office,1,,,,,1
+IT/IS,24,42,22,104,19,211
+Production       ,162,151,150,614,185,1262
+Sales,13,12,17,62,11,115
+Software Engineering,9,8,2,21,9,49
+Grand Total,217,222,198,817,228,1682
